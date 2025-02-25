@@ -1,0 +1,9 @@
+C:\Users\chakray\Documents\quarkusIVX\src\main\java\mx\com\chakray\backend\controller\ExampleResource.java
+C:\Users\chakray\Documents\quarkusIVX\src\main\java\mx\com\chakray\backend\domain\data\dto\request\LadosRequest.java
+C:\Users\chakray\Documents\quarkusIVX\src\main\java\mx\com\chakray\backend\domain\data\dto\request\RequestDto.java
+C:\Users\chakray\Documents\quarkusIVX\src\main\java\mx\com\chakray\backend\domain\data\dto\response\LadosResponse.java
+C:\Users\chakray\Documents\quarkusIVX\src\main\java\mx\com\chakray\backend\domain\data\dto\response\responseDTO.java
+C:\Users\chakray\Documents\quarkusIVX\src\main\java\mx\com\chakray\backend\domain\ports\services\divisionSvcPort.java
+C:\Users\chakray\Documents\quarkusIVX\src\main\java\mx\com\chakray\backend\domain\ports\services\LadosSvcPort.java
+C:\Users\chakray\Documents\quarkusIVX\src\main\java\mx\com\chakray\backend\services\divisionSvc.java
+C:\Users\chakray\Documents\quarkusIVX\src\main\java\mx\com\chakray\backend\services\LadosSvc.java

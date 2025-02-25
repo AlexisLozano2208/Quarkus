@@ -1,0 +1,8 @@
+mx\com\chakray\backend\domain\data\dto\request\RequestDto.class
+mx\com\chakray\backend\domain\data\dto\response\responseDTO.class
+mx\com\chakray\backend\domain\ports\services\divisionSvcPort.class
+mx\com\chakray\backend\domain\data\dto\response\LadosResponse.class
+mx\com\chakray\backend\services\LadosSvc.class
+mx\com\chakray\backend\controller\ExampleResource.class
+mx\com\chakray\backend\domain\ports\services\LadosSvcPort.class
+mx\com\chakray\backend\services\divisionSvc.class
